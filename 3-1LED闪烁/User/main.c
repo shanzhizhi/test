@@ -22,7 +22,7 @@ int main(void)
 //		Delay_ms(100);
 //		GPIO_SetBits(GPIOA, GPIO_Pin_0);
 //		Delay_ms(100);
-
+//
 		
 //		GPIO_WriteBit(GPIOA,GPIO_Pin_0,(BitAction)0);
 //		Delay_ms(500);
